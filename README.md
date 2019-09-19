@@ -1,0 +1,5 @@
+# Git practice assignment
+----
+<a href="https://www.developer-tech.com/news/2019/aug/30/google-pay-hackers-discover-bugs-apps-installs/">**Google will pay hackers to discover bugs in apps with over 100m installs** </a>
+
+The app mentioned in the article which carries Trojan Dropper module is CamScanner. I use it a lot, but on Apple devices. It makes me think about how different operating systems deal with viruses and malware. Why some seem to be more vulnerable than others. It is also interesting to know how large companies like Google manage security issues on their platform.
