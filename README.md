@@ -9,3 +9,8 @@ The app mentioned in the article which carries Trojan Dropper module is CamScann
 ## Comment by William Jiang
 
 I think it's really cool that Google would pay people who can find vulnerabilities and bugs in apps. It's nice to see that they care about the integrity of Play Store apps and the safety and privacy of users.
+
+
+## Comment by Anastasia Riawan Soenjoto 
+
+I think its interesting to see what actions a large company such as Google are taking to ensure the privacy of their users amongst other possible bugs. I think this rewards program will allow more bugs to be detected that could potentially be harmful for the users. 
